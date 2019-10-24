@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AboutAlvin</string>
+    <string name="my_name">Alvin Chow</string>
+    <string name="desc_name">Hi, my name is Alvin
+    I love Fish
+    The kind is alive and swims around in an aquarium or river,
+    or a lake, and  definitely the ocean
+    Fun fact is that I have several aquariums and also a river.
+    I like eating fish, too. Raw fish. Grilled fish. Smoked fish. Poached fish
+    not so much. And sometimes I even go fishing. And even less sometimes, I actually
+    catch somethings, I actually catch something.
+    Once, when I was camping in Canada, and very hungry, I even caught a large salmon
+    with my hands.
+    I\'ll be happy to teach you how to make your own aquarium. You should ask someone else about
+    fishing though.</string>
+    <string name="hint_text">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
